@@ -16,4 +16,5 @@ During my time looking around at different configs, I had found so much misinfor
 
 It's also in my best interest to make sure people are educated about the commands that they are running on their server.
 
+## Need More Help With Your Game Server?
 If you need help then ask our friendly community Discord in #tech-support at https://www.ghostcap.com
