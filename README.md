@@ -1,6 +1,10 @@
 # CS-GO Server Config (server.cfg)
 This repo serves as a place for up and coming CS:GO server owners to quickly get a server config (server.cfg) that is not only easy to edit, but is easy to understand.
 
+> [!WARNING]  
+> This config should not be used for CS2. We share our default configs for CS2 (There isnt much to change!) on the [Game Host Bros](https://www.gamehostbros.com/
+) Github.
+
 Additionally I have included commands (and mods) for each server type to get the particular server up and running. 
 
 I have included configs for:
